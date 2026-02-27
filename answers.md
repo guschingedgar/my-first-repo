@@ -9,8 +9,8 @@ git --version
 
 **Configure your Git username and email:**
 ```bash
-git config --global user.name "yourusername"
-git config --global user.email "youremail@example.com"
+git config --global user.name "guschingedgar"
+git config --global user.email "guschingedgar@gmail.com"
 ```
 
 ---
